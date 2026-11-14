@@ -1,4 +1,4 @@
-\# SQL-Server-Training-Project\
+# SQL-Server-Training-Project\
 \
 \## فكرة المشروع\
 \
