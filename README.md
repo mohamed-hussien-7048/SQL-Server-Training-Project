@@ -41,3 +41,8 @@
 6. تأكد من إعداد Windows Authentication بشكل صحيح.
 7. شغّل المشروع باستخدام أمر التشغيل الموجود في `package.json`.
 8. افتح الواجهة من خلال السيرفر.
+
+---
+لينك البوست المجمع عن الثلاث قواعد بيانات 
+
+https://www.linkedin.com/posts/mohamed-hussein7048_nodejs-expressjs-sqlserver-share-7527355959308980224-aOOg/
